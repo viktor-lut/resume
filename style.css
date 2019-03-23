@@ -1,8 +1,21 @@
 /*div {*/
-    /*border: 1px solid ;*/
+    /*border: 1px solid;*/
     /*border-color: antiquewhite;*/
 /*}*/
 
 .container {
     max-width: 960px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+ul {
+    margin-bottom: 0;
+    color: darkcyan;
+}
+
+.text-blue {
+    color: darkblue;
 }
